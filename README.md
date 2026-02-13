@@ -9,7 +9,6 @@
 
 -  I’m currently working on **DevOps Engineering**
 -  I’m looking to collaborate on **Open Source Projects**
--  Ask me about **JavaScript, Python, React, and Node.js**
 -  How to reach me: **muhammadjunaid8047@gmail.com**
 -  Fun fact: **I love coding late at night with a cup of coffee! ☕**
 
@@ -18,7 +17,7 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,java,cpp,git,github,vscode,figma,linux,docker,firebase,mysql&perline=9" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,mongodb,python,git,github,linux,firebase&perline=9" />
   </a>
 </p>
 

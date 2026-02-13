@@ -17,7 +17,7 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,mongodb,python,git,github,linux,firebase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=docker,react,nodejs,mongodb,python,git,github,linux,firebase&perline=9" />
   </a>
 </p>
 

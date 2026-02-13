@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Muhammad Junaid 👋</h1>
-<h3 align="center">🚀 A passionate DevOps Engineer from Pakistan</h3>
+<h1 align="center">Hi, I'm Muhammad Junaid 👋</h1>
+<h3 align="center"> A passionate DevOps Engineer from Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadjunaid8047&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjunaid8047" />
@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on **DevOps Engineering**
+-  I’m currently working on **DevOps Engineering**
 -  I’m looking to collaborate on **Open Source Projects**
 -  Ask me about **JavaScript, Python, React, and Node.js**
 -  How to reach me: **muhammadjunaid8047@gmail.com**
-- ⚡ Fun fact: **I love coding late at night with a cup of coffee! ☕**
+-  Fun fact: **I love coding late at night with a cup of coffee! ☕**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadjunaid8047&show_icons=true&theme=tokyonight" alt="muhammadjunaid8047" />
@@ -39,7 +39,7 @@
 
 ---
 
-<h3 align="center">🤝 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 
 <p align="center">
   <a href="mailto:muhammadjunaid8047@gmail.com" target="_blank">

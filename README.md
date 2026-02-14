@@ -6,14 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadjunaid8047&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjunaid8047" />
 </p>
 
----
 
 -  I’m currently working on **DevOps Engineering**
 -  I’m looking to collaborate on **Open Source Projects**
 -  How to reach me: **muhammadjunaid8047@gmail.com**
 -  Fun fact: **I love coding late at night with a cup of coffee! ☕**
-
----
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
@@ -21,11 +18,6 @@
     <img src="https://skillicons.dev/icons?i=docker,react,nodejs,mongodb,python,git,github,linux,firebase&perline=9" />
   </a>
 </p>
-
----
-
-<br />
----
 
 <h3 align="center"> Connect with me</h3>
 

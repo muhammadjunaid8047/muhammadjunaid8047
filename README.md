@@ -23,13 +23,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadjunaid8047&show_icons=true&theme=tokyonight" alt="muhammadjunaid8047" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjunaid8047&layout=compact&theme=tokyonight" alt="muhammadjunaid8047" />
-</div>
-
 <br />
 
 <div align="center">

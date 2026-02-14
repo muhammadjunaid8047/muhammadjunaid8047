@@ -24,11 +24,6 @@
 ---
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjunaid8047&theme=tokyonight" alt="muhammadjunaid8047" />
-</div>
-
 ---
 
 <h3 align="center"> Connect with me</h3>

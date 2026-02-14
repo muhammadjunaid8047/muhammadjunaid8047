@@ -1,4 +1,4 @@
-![](https://github.com/muhammadjunaid8047/muhammadjunaid8047/image.jpg)
+![](https://github.com/muhammadjunaid8047/muhammadjunaid8047/blob/main/image.jpg)
 <h1 align="center">Hi, I'm Muhammad Junaid 👋</h1>
 <h3 align="center"> DevOps Engineer </h3>
 
